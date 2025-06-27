@@ -4,6 +4,7 @@ function showUsernameInput() {
   app.innerHTML = `
     <h1>Succinct Fishing Battle 🎣</h1>
     <input type="text" id="username" placeholder="Enter username..." />
+    <br />
     <button onclick="selectTeam()">Continue</button>
   `;
 }
