@@ -1,0 +1,27 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background: #ccefff;
+  margin: 0;
+  padding: 0;
+}
+
+#app {
+  text-align: center;
+  padding: 20px;
+}
+
+.team-button {
+  margin: 10px;
+  padding: 10px 20px;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+  color: white;
+  border-radius: 5px;
+}
+
+.rod {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+}
